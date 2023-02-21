@@ -17,6 +17,7 @@ export default function Home() {
       <main className={styles.main}>
         <div className={styles.description}>
           <p>
+            helllo from Izzy
             Get started by editing&nbsp;
             <code className={styles.code}>pages/index.tsx</code>
           </p>
@@ -84,7 +85,8 @@ export default function Home() {
               Learn <span>-&gt;</span>
             </h2>
             <p className={inter.className}>
-              Learn about Next.js in an interactive course with&nbsp;quizzes!
+              wooo
+              {/* Learn about Next.js in an interactive course with&nbsp;quizzes! */}
             </p>
           </a>
 
